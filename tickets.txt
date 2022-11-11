@@ -1,0 +1,11 @@
+Movie_Title,Price_Per_Ticket,Showdate,Available_Seats
+The Lost City,11.00,SAT 4/2,34
+The Batman,11.15,SAT 4/2,12
+Sonic the Hedgehog 2,10.50,SAT 4/7,2
+Morbius,12.30,SAT 4/2,10
+Jujutsu Kaisen Subbed,12.00,SAT 4/2,4
+Uncharted,8.50,SAT 4/2,35
+Umma,12.18,SUN 4/3,50
+Dog,11.50,SUN 4/3,45
+Howls Moving Castle,11.40,SUN 4/3,2
+Wrath of Man,8.90,SUN 4/3,3
